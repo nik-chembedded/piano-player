@@ -1,0 +1,8 @@
+# Keep personal or purchased sheet music and MIDI files out of this public repo
+*.pdf
+*.mid
+*.midi
+!examples/*.mid
+Thumbs.db
+desktop.ini
+.DS_Store
